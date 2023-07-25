@@ -1,0 +1,15 @@
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\bin\Debug\net6.0\Robot VS Dinosaur lab.exe
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\bin\Debug\net6.0\Robot VS Dinosaur lab.deps.json
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\bin\Debug\net6.0\Robot VS Dinosaur lab.runtimeconfig.json
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\bin\Debug\net6.0\Robot VS Dinosaur lab.dll
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\bin\Debug\net6.0\Robot VS Dinosaur lab.pdb
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.csproj.AssemblyReference.cache
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.AssemblyInfoInputs.cache
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.AssemblyInfo.cs
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.csproj.CoreCompileInputs.cache
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.dll
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\refint\Robot VS Dinosaur lab.dll
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.pdb
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\Robot VS Dinosaur lab.genruntimeconfig.cache
+C:\devcodecamp\c#intro\Robot VS Dinosaur lab\obj\Debug\net6.0\ref\Robot VS Dinosaur lab.dll
